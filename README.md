@@ -1,5 +1,7 @@
 # Henry's blog
 這是我的個人部落格，主要紀錄學習過程
+
+部落格連結：https://blog.hchou.me
 ## 使用工具
 + 由 [Hexo](https://hexo.io) 產生靜態網頁，使用主題為 [Next](https://github.com/theme-next/hexo-theme-next)
 + 部署到 [Netlify](https://www.netlify.com/)
